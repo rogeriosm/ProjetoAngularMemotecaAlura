@@ -1,5 +1,21 @@
 # Memoteca
 
+Projeto desenvolvido junto as aulas de angular14 da Alura
+https://cursos.alura.com.br/
+
+Nesse curso foi mostrado como:
+
+utilizar o Angular CLI para criar um projeto Angular, os componentes e os serviços,
+a estrutura de um componente no Angular: os arquivos HTML, CSS e Typescript e também o funcionamento do fluxo de informações entre template e component,
+utilizar rotas para adicionar uma navegação dinâmica
+
+utilizar algumas das mais importantes diretivas do Angular, como:
+
+ngIf — para mostrar a mensagem de que ainda não existem pensamentos cadastrados;
+nfFor — para renderizar uma sequência de pensamentos;
+ngClass — para aplicar estilização condicional.
+Também foi mostrado como utilizar as injeções de dependências com services e realizar a comunicação com o servidor através do httpClient dos métodos get, post, put e delete, completando o "CRUD".
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
 
 ## Development server
